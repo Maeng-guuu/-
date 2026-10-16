@@ -1,0 +1,8 @@
+api_key.txt
+.env
+.env.*
+*credential*
+__pycache__/
+*.pyc
+training_arrays.npz
+urban_no2_2020_fusion_master.parquet
